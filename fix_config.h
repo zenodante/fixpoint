@@ -1,0 +1,11 @@
+#ifndef __FIX_MATH_CONFIG_H__
+#define __FIX_MATH_CONFIG_H__
+
+
+#define FIXMATH_NO_OVERFLOW
+#define FIXMATH_NO_ROUNDING
+#define FIXMATH_NO_64BIT
+
+#define FIXMATH_NO_CACHE
+
+#endif
